@@ -1,0 +1,42 @@
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.dll
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.pdb
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.Properties.Resources.resources
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.GenerateResource.cache
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.dll
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.pdb
+D:\DEVELOPMENT\Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csprojAssemblyReference.cache
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.dll
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.pdb
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.Properties.Resources.resources
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.GenerateResource.cache
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.dll
+D:\DEVELOPMENT\C#\Revit Plugins\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.pdb
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.Properties.Resources.resources
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.GenerateResource.cache
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.pdb
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.pdb
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitAPI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitAPIUI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitDBAPI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitUIAPI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.CopyComplete
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.dll
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\GOSTSpec.pdb
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitAPI.dll
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitAPIUI.dll
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitDBAPI.dll
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\bin\Debug\RevitUIAPI.dll
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.AssemblyReference.cache
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.Properties.Resources.resources
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.GenerateResource.cache
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.CoreCompileInputs.cache
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.csproj.Up2Date
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.dll
+D:\Zhassulan\03_Исходные коды плагинов\2023 Revit\GOSTSpec\GOSTSpec\obj\Debug\GOSTSpec.pdb

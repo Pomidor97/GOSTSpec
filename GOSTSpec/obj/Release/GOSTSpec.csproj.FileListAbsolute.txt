@@ -1,0 +1,26 @@
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\GOSTSpec.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\GOSTSpec.pdb
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitAPI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitAPIUI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitDBAPI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitUIAPI.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.Properties.Resources.resources
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.GenerateResource.cache
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.CopyComplete
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.dll
+D:\DEVELOPMENT\C#\KAZGOR PLUGINS\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.pdb
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\GOSTSpec.dll
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\GOSTSpec.pdb
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitAPI.dll
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitAPIUI.dll
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitDBAPI.dll
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\bin\Release\RevitUIAPI.dll
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.AssemblyReference.cache
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.Properties.Resources.resources
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.GenerateResource.cache
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.CoreCompileInputs.cache
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.csproj.Up2Date
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.dll
+P:\3.CentrProject\Suleiman Zhassulan\Исходные коды\2023 Revit\GOSTSpec\GOSTSpec\obj\Release\GOSTSpec.pdb

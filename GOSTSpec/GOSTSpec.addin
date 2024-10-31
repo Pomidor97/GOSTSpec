@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>GOSTSpec - Копирование параметров</Text>
+    <Description>Some description for GOSTSpec</Description>
+    <Assembly>GOSTSpec.dll</Assembly>
+    <FullClassName>GOSTSpec.Command</FullClassName>
+    <ClientId>DAB71009-7FE4-4E78-B340-D3D7EA2832F8</ClientId>
+    <VendorId>com.nursultan</VendorId>
+    <VendorDescription>Yessirkegenov Nursultan</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>GOSTSpec - Нумерация</Text>
+    <Description>Some description for GOSTSpec</Description>
+    <Assembly>GOSTSpec.dll</Assembly>
+    <FullClassName>GOSTSpec.Numbering</FullClassName>
+    <ClientId>68BE139C-8313-497A-8C7C-60117ECB0EEB</ClientId>
+    <VendorId>com.nursultan</VendorId>
+    <VendorDescription>Yessirkegenov Nursultan</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>GOSTSpec - Создание спецификации</Text>
+    <Description>Some description for GOSTSpec</Description>
+    <Assembly>GOSTSpec.dll</Assembly>
+    <FullClassName>GOSTSpec.AutoSchedule</FullClassName>
+    <ClientId>609CA737-8E5B-482E-A115-AB2E8F248262</ClientId>
+    <VendorId>com.nursultan</VendorId>
+    <VendorDescription>Yessirkegenov Nursultan</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>GOSTSpec - Оформление спецификации по ГОСТ</Name>
+    <Assembly>GOSTSpec.dll</Assembly>
+    <FullClassName>GOSTSpec.App</FullClassName>
+    <ClientId>18A48815-B38F-49DC-86A4-F82FD3615A60</ClientId>
+    <VendorId>com.nursultan</VendorId>
+    <VendorDescription>Yessirkegenov Nursultan</VendorDescription>
+  </AddIn>
+</RevitAddIns>
